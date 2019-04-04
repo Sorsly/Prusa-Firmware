@@ -554,7 +554,8 @@
 #define TEMP_SENSOR_0 148
 #else
 //#define TEMP_SENSOR_0 5
-#define TEMP_SENSOR_0 11
+//#define TEMP_SENSOR_0 11
+#define TEMP_SENSOR_0 13
 #endif
 #define TEMP_SENSOR_1 0
 #define TEMP_SENSOR_2 0
